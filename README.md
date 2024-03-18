@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeyson Andrès Mueses</h1>
-<h3 align="center">Full-Stack JavaScript Engineer! from Ecuador 🇪🇨</h3>
+<h3 align="center">Data Analysis student at Kruger School X 🇪🇨</h3>
 
-- 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [bento.me/andruudev](bento.me/andruudev)
+- 👨‍💻 All of my projects are available at [beacons.me/andruudev](beacons.me/andruudev)
 
 - 📫 How to reach me **andruudev@gmail.com**
 
