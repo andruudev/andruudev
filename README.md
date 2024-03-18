@@ -2,7 +2,7 @@
 <h3 align="center">Data Analysis student at Kruger School X 🇪🇨</h3>
 
 
-- 👨‍💻 All of my projects are available at [beacons.me/andruudev](beacons.me/andruudev)
+- 👨‍💻 All of my projects are available at [beacons.ai/andruudev](beacons.ai/andruudev)
 
 - 📫 How to reach me **andruudev@gmail.com**
 
