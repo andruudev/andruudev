@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeyson Andrés Mueses⚡</h1>
-<h3 align="center">Data Analysis student at Kruger School X 🇪🇨</h3>
+<h3 align="center">🤘 Software Engineer | Content Creator | Founder at Motion Suuun 🌈
+❌Discover More👇</h3>
 
 <p align="left"> <a href="https://twitter.com/andruudev" target="blank"><img src="https://img.shields.io/twitter/follow/andruudev?logo=twitter&style=for-the-badge" alt="andruudev" /></a> </p>
 
