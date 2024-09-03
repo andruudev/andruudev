@@ -1,17 +1,17 @@
-<h1 align="center">Hey! 👋, I'm Jeyson Andrés Mueses 💻 Freelance Full-Stack Web Engineer 🚀</h1>
+<h1 align="center">Hey! 👋, I'm Jeyson Andrés Mueses 💻 Data Analyst 🚀</h1>
 
-<h2 align="center">Software Engineer student 👽 I love AI and learning more about Full Stack Web Development and Data Science ⭐ Passionate about space exploration technologies 🚀</h2>
+<h2 align="center">Data Analyst 👽 Software Development Student ⭐ Passionate about Software Development and Never Stop Learning🚀</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andruudev&label=Profile%20views&color=0e75b6&style=flat" alt="andruudev" /> </p>
 
--  🔭 I’m currently working on **some of my cool side projects based on Data Science, Web and Mobile Development**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 🌱 I’m currently learning **Computer Science | Web Development | Data Analyst | Cloud | Mobile Development | Data Science | ML | Deep Learning | BI**
-- 💬 Ask me about **Software Processes and Architectures | Freelance Tips**
-- 📫 How to reach me  [Email](mailto:andruudev@gmail.com)
-- 👨‍💻 All of my projects are available at [My personal Website](https://andruudev.framer.website/)
-- 📝 I regularly write articles on [Dev To](https://dev.to/andruudev)
-- 📄 Know about my experiences [Bento.me](https://bento.me/andruudev)
-- ⚡ Fun fact: **Reading and writing about science fiction**
+# -  🔭 I’m currently working on **some of my cool side projects based on Data Analyst**
+# - 👯 I’m looking to collaborate on **Open Source projects**
+# - 🌱 I’m currently learning **Computer Science | Web Development | Data Analyst | Cloud | Mobile Development | Data Science | ML | Deep Learning | BI**
+# - 💬 Ask me about **Software Processes and Architectures | Freelance Tips**
+# - 📫 How to reach me  [Email](mailto:andruudev@gmail.com)
+# - 👨‍💻 All of my projects are available at [My personal Website](https://andruudev.framer.website/)
+# - 📝 I regularly write articles on [Dev To](https://dev.to/andruudev)
+# - 📄 Know about my experiences [Bento.me](https://bento.me/andruudev)
+# - ⚡ Fun fact: **Reading and writing about science fiction**
 
 <div> <a href="https://twitter.com/andruudev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andruudev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
