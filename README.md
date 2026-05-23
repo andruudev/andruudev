@@ -30,7 +30,7 @@
 - 💙 Full-time educative content creator at @andruudev
 - 🧠 My portfolio » [andruudev.com](https://andruudev.com)  
 - 🎈 AI Engineer Student
-- ↘︎  since '04] 
+- ↘︎  since '04 
 ###
 
 
@@ -43,9 +43,9 @@
 
 ###
 
-- 🌻 [Sunflower](https://github.com/sammwyy/Sunflower) A Java bytecode decompiler written in Rust.
-- ✏️ [Ryp](https://github.com/sammwyy/ryp) Terminal code editor.
-- 🥜 [NUTS](https://github.com/sammwyy/NUTS) A small but powerful CLI tool to mess around with network services. 
+- 🌻 [Sunflower](https://github.com/andruudev) A Java bytecode decompiler written in Rust.
+- ✏️ [Ryp](https://github.com/andruudev) Terminal code editor.
+- 🥜 [NUTS](https://github.com/andruudev) A small but powerful CLI tool to mess around with network services. 
 ###
 
 <h2 align="center">↘︎ Tech Stack</h2>
