@@ -25,9 +25,12 @@
 
 ###
 
-
-<p align="left">• I'm freelance Data Analyst & BI Developer <br>• I love creating and attending events; I currently have the role of AWS Student Builder Group Leader & Microsoft Student Ambassador<br>• Full-time educative content creator at @andruudev<br>• Mi portfolio » andruudev.com<br>• AI Engineer Student<br>↘︎ since '04</p>
-
+- ⚡ I'm freelance Data Analyst & BI Developer » [projects here](https://andruudev.com/projects)
+- 👀 I love creating and attending events; I currently have the role of [AWS Student Builder Group Leader](https://test.com) & [Microsoft Student Ambassador](https://test.com)
+- 💙 Full-time educative content creator at @andruudev
+- 🧠 My portfolio » [andruudev.com](https://andruudev.com)  
+- 🎈 AI Engineer Student
+- ↘︎  since '04] 
 ###
 
 
