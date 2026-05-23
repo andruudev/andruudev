@@ -34,13 +34,11 @@
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/andruudev/andruudev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
 
 <h2 align="center">↘︎ Some random projects</h2>
 
