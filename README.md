@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hey! 👋, I'm Jeyson Andrés Mueses 💻</h1>
 
 ###
@@ -22,15 +20,13 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="center">↘︎ About me</h2>
 
 ###
 
-<br clear="both">
 
-<p align="left">• I'm freelance Data Analyst & BI Developer <br><br>• I love creating and attending events; I currently have the role of AWS Student Builder Group Leader & Microsoft Student Ambassador<br><br>• Full-time educative content creator at @andruudev<br><br>• Mi portfolio » andruudev.com<br><br>• AI Engineer Student<br><br>↘︎ since '04</p>
+<p align="left">• I'm freelance Data Analyst & BI Developer <br>• I love creating and attending events; I currently have the role of AWS Student Builder Group Leader & Microsoft Student Ambassador<br>• Full-time educative content creator at @andruudev<br>• Mi portfolio » andruudev.com<br>• AI Engineer Student<br>↘︎ since '04</p>
 
 ###
 
@@ -44,8 +40,9 @@
 
 ###
 
-<p align="left">- 🌻 [Sunflower](https://github.com/sammwyy/Sunflower) A Java bytecode decompiler written in Rust.<br>- ✏️ [Ryp](https://github.com/sammwyy/ryp) Terminal code editor.<br>- 🥜 [NUTS](https://github.com/sammwyy/NUTS) A small but powerful CLI tool to mess around with network services.</p>
-
+- 🌻 [Sunflower](https://github.com/sammwyy/Sunflower) A Java bytecode decompiler written in Rust.
+- ✏️ [Ryp](https://github.com/sammwyy/ryp) Terminal code editor.
+- 🥜 [NUTS](https://github.com/sammwyy/NUTS) A small but powerful CLI tool to mess around with network services. 
 ###
 
 <h2 align="center">↘︎ Tech Stack</h2>
