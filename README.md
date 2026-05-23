@@ -7,15 +7,14 @@
 ###
 
 <div align="left">
- <a href="https://x.com/andruudev"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  /></a>
+  <a href="https://x.com/andruudev"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  /></a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/andruudev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://instagram.com/andruudev"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+</a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <a href="https://dev.to/andruudev"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  /></a>
 </div>
 
 ###
