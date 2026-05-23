@@ -2,12 +2,12 @@
 
 ###
 
-<p align="center">Data Analyst & BI Developer from Quito, Ecuador 🇪🇨</p>
+<p align="center">Freelance Data Analyst & BI Developer from Quito, Ecuador 🇪🇨</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
+ <a href="https://x.com/andruudev"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  /></a>
   <img width="12" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img width="12" />
