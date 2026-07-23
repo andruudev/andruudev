@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Freelance Data Analyst & BI Developer from Quito, Ecuador 🇪🇨</p>
+<p align="center">Cloud Security Engineer🇪🇨</p>
 
 ###
 
@@ -24,11 +24,10 @@
 
 ###
 
-- ⚡ I'm freelance Data Analyst & BI Developer » [projects here](https://andruudev.com/projects)
+- ⚡ I'm a Cloud Security Engineer » [projects here](https://andruudev.com/projects)
 - 👀 I love creating and attending events; I currently have the role of [AWS Student Builder Group Leader](https://test.com) & [Microsoft Student Ambassador](https://test.com)
 - 💙 Full-time educative content creator at @andruudev | [Tiktok](https://tiktok.com/@andruudev) - [Instagram](https://instagram.com/andruudev) - [LinkedIn](https://linkedin.com/in/andruudev) - [Youtube](https://youtube.com/@andruudev) - [X/Twitter](https://x.com/andruudev)
 - 🧠 My portfolio » [andruudev.com](https://andruudev.com)
-- 🎈 AI Engineer Student
 - ↘︎  since '04 
 ###
 
